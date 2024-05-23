@@ -13,7 +13,7 @@ git -v   // Check Node.js installation
 ### Clone repository with initial setup
 
 ```bash
-git clone https://github.com/mihaildanilov/code-camp-6-initial-setup.git // Clone the repository
+https://github.com/TheRaccoonsOrg/code-camp-6-initial-setup.git // Clone the repository
 ```
 
 ### Run the project
